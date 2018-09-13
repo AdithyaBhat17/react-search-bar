@@ -1,0 +1,19 @@
+{
+  "name": "search-tasks",
+  "version": "1.0.0",
+  "description": "A simple tasks app built to implement a search bar",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Adithya NR",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "bulma": "^0.7.1",
+    "parcel": "^1.9.7",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  }
+}
